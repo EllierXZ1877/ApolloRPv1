@@ -1461,3 +1461,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Jun2024 21:54:09.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EllierXZ moved too quickly! -3.9453942896968783,3.1821796287086244,-17.350140729898385
 [23Jun2024 21:54:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EllierXZ: Set own game mode to Spectator Mode]
 [23Jun2024 21:54:30.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EllierXZ: Set own game mode to Creative Mode]
+[23Jun2024 21:57:55.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EllierXZ has reached the goal [Half a flight]
+[23Jun2024 21:58:01.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EllierXZ lost connection: Timed out
+[23Jun2024 21:58:01.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EllierXZ left the game
+[23Jun2024 21:58:01.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EllierXZ
+[23Jun2024 22:03:19.989] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e0332c9[id=<null>,name=EllierXZ,properties={},legacy=false] (/127.71.181.95:45525) lost connection: Disconnected
+[23Jun2024 22:03:40.589] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17c7177[id=<null>,name=EllierXZ,properties={},legacy=false] (/127.71.181.95:49955) lost connection: Disconnected
+[23Jun2024 22:04:03.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EllierXZ[/127.71.181.95:50781] logged in with entity id 2197 at (886.3698321254201, 107.0625, -1500.5909911228277)
+[23Jun2024 22:04:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EllierXZ joined the game
+[23Jun2024 22:04:04.701] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EllierXZ (18)
+[23Jun2024 22:04:04.701] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EllierXZ
