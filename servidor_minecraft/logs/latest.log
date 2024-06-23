@@ -1572,3 +1572,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Jun2024 22:28:03.617] [Server thread/INFO] [Easy NPC/]: Removing Easy NPC IronGolem['Papeta'/5086, l='ServerLevel[world]', x=955.50, y=148.00, z=-1342.50] requested by ServerPlayer['EllierXZ'/3813, l='ServerLevel[world]', x=953.19, y=148.00, z=-1343.07]
 [23Jun2024 22:29:04.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EllierXZ has made the advancement [Hot Stuff]
 [23Jun2024 22:30:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EllierXZ: Set the time to 1000]
+[23Jun2024 22:40:23.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EllierXZ: Set the time to 1000]
+[23Jun2024 22:45:00.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EllierXZ lost connection: Disconnected
+[23Jun2024 22:45:00.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EllierXZ left the game
+[23Jun2024 22:45:00.637] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EllierXZ
