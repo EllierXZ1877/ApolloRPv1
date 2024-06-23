@@ -925,3 +925,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [13:00:51] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry]: Encoded Weapon Attribute registry size (with package overhead): 27398 bytes (in 3 string chunks with the size of 10000)
 [13:00:51] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [13:00:51] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 24454
+[13:26:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[13:26:35] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Disabling Mohist v1.20.1
+[13:26:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[13:26:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
