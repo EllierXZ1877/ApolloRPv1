@@ -10272,3 +10272,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Jun2024 22:45:00.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EllierXZ left the game
 [23Jun2024 22:45:00.637] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of EllierXZ
 [23Jun2024 22:45:00.637] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EllierXZ
+[23Jun2024 22:45:21.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2024 22:45:21.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2024 22:50:21.561] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2024 22:50:21.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2024 22:55:21.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2024 22:55:21.590] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
